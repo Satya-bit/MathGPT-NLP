@@ -84,3 +84,8 @@ Wikipedia API: For fetching data from Wikipedia based on your queries.
 
 Make sure to input your GROQ API key in the sidebar before using the app, as it’s required for the backend processing.
 If you have any trouble or need further assistance, feel free to ask the assistant directly!
+
+# Result
+
+![image](https://github.com/user-attachments/assets/e155c2f6-d129-4951-a03e-3aabd775585e)
+
